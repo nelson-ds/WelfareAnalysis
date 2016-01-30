@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ***Description***
 
-A brief analysis of whether the Progresa welfare scheme in Mexico had the desired effect of increasing school enrollment for kids from poor household. The project has been done in Python using Pandas.
+A brief analysis of whether the Progresa welfare scheme in Mexico had the desired effect of increasing school enrollment for kids from poor household. The models used for the analysis are simple liner regression, multiple linear regression and difference in difference regression. The project has been done in Python using Pandas.
 ____________________________________________________________________________________________________________________________
 
 *** Acknowledgement ***
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 *** Note ***
 
-The PDF file is just for reference of the output. To see actual dataframes, please load the .ipynb file using Pandas.
+The PDF file is just a reference of the output. To see actual dataframes, please load the .ipynb file using Pandas.
 ____________________________________________________________________________________________________________________________
 
 
