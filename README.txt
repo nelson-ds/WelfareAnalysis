@@ -13,12 +13,6 @@ ___________________________________________________________________________
 My Professor from the University of Washington, Joshua Blumenstock for giving this topic as an in-class assignment
 ___________________________________________________________________________
 
-*** Note ***
-
-The PDF file is just a reference of the output. To see actual dataframes, please load the .ipynb file using Pandas.
-___________________________________________________________________________
-
-
 *** Contact ***
 
 For any queries or feedback feel free to contact me @
